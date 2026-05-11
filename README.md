@@ -35,6 +35,22 @@ A free, open-source tool for creating professional HTML email signatures. No sig
 3. Set source to **Deploy from a branch** → `main` / `root`
 4. Your signature generator will be live at `https://yourusername.github.io/email-signature-generator`
 
+### Docker
+
+```bash
+docker run -d -p 8080:80 ghcr.io/clarkemedia/email-signature-generator:latest
+```
+
+Or with Docker Compose:
+
+```bash
+git clone https://github.com/clarkemedia/email-signature-generator.git
+cd email-signature-generator
+docker compose up -d
+```
+
+Then open `http://localhost:8080` in your browser.
+
 ### Self-hosted
 
 Just serve `index.html` from any web server or CDN. It's a single file with no build step.
