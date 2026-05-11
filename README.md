@@ -2,7 +2,7 @@
 
 A free, open-source tool for creating professional HTML email signatures. No sign-up, no server, no tracking — runs entirely in your browser.
 
-**[Try it live →](https://clarke117.github.io/email-signature-generator)**
+**[Try it live →](https://clarkemedia.github.io/email-signature-generator)**
 
 ## Features
 
@@ -20,7 +20,7 @@ A free, open-source tool for creating professional HTML email signatures. No sig
 
 ## How to Use
 
-1. Open `index.html` in any modern browser (or visit the [live version](https://clarke117.github.io/email-signature-generator))
+1. Open `index.html` in any modern browser (or visit the [live version](https://clarkemedia.github.io/email-signature-generator))
 2. Fill in your details — leave any field blank to hide it from the signature
 3. Pick an accent colour to match your brand
 4. Click **Copy signature** and paste into your email client
