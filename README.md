@@ -44,7 +44,7 @@ docker run -d -p 8080:80 ghcr.io/clarkemedia/email-signature-generator:latest
 Or with Docker Compose:
 
 ```bash
-git clone https://github.com/clarkemedia/email-signature-generator.git
+git clone https://github.com/ch0star/email-signature-generator.git
 cd email-signature-generator
 docker compose up -d
 ```
